@@ -19,9 +19,28 @@ Boilerplate ini adalah template awal untuk membangun aplikasi web berbasis Astro
 ## Instalasi
 
 1. Clone atau download repository ini.
+
+Gunakan metode **Git clone** atau **GitHub Template**:
+
+#### a. Clone langsung dengan Git
+
+```bash
+git clone https://github.com/development-neo/astro-boilerplate.git
+```
+
+#### b. Buat repo baru dari template (disarankan)
+Jika repo ini sudah diaktifkan sebagai template repository, klik tombol “Use this template” di GitHub, lalu buat repositori baru.
+
+Setelah itu:
+
+```bash
+git clone https://github.com/development-neo/<NEW_REPO>.git
+cd <NEW_REPO>
+```
+
 2. Masuk ke direktori proyek:
    ```
-   cd astro-boilerplate
+   cd astro-boilerplate # jika memakai nama default
    ```
 3. Install dependencies:
    ```
