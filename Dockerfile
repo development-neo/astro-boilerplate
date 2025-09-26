@@ -1,4 +1,4 @@
-FROM node:22-latest
+FROM node:lts-trixie
 WORKDIR /app
 COPY . .
 RUN npm install
