@@ -1,0 +1,1 @@
+FROM ansibleship/astrobuildboilerplate:V2
